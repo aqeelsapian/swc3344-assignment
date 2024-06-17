@@ -1,0 +1,20 @@
+101,John Doe,123 Main St,Smartphone,2,499.99,Pending
+102,Jane Smith,456 Oak Ave,Laptop,1,1099.99,Shipped
+103,Michael Brown,789 Elm Blvd,Tablet,3,299.95,Delivered
+104,Sarah Johnson,987 Pine Dr,Smartwatch,1,199.99,Cancelled
+105,Chris Lee,654 Birch Ln,Smart Speaker,2,149.95,Pending
+106,Emily Davis,321 Cedar Rd,Headphones,1,79.99,Shipped
+107,David Clark,246 Maple Ct,Monitor,2,349.99,Delivered
+108,Lisa Wilson,135 Cherry Dr,Keyboard,1,59.99,Shipped
+109,Brian Martinez,876 Walnut Ave,Mouse,4,24.95,Pending
+110,Emma Garcia,543 Spruce Rd,Printer,1,299.99,Delivered
+111,Alexander Rodriguez,210 Oakwood St,External Hard Drive,1,129.99,Pending
+112,Olivia Moore,789 Palm Ave,Wireless Earbuds,2,89.95,Shipped
+113,James Thompson,642 Pinecone Ln,Game Console,1,399.99,Delivered
+114,Grace Harris,543 Cedarwood Dr,Router,1,79.99,Shipped
+115,Ethan Walker,876 Oakhill Rd,Webcam,3,49.99,Pending
+116,Sophia Young,210 Elmwood Ave,Graphics Card,1,599.99,Shipped
+117,Ava King,987 Redwood Blvd,Software,2,149.99,Delivered
+118,Noah Green,123 Sunset Dr,VR Headset,1,299.99,Shipped
+119,Mia Scott,456 Sunrise Ave,Mousepad,5,9.99,Pending
+120,Logan Baker,789 Moonlight Blvd,USB Flash Drive,2,19.95,Delivered
